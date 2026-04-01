@@ -242,3 +242,5 @@ Your PR on GitHub will update automatically. Team Lead can now merge it.
 - Merge conflicts look scary but they are just Git asking: "Both of you changed this spot — which version is correct?"
 - The answer is often "both" — you keep everyone's changes and remove the markers.
 - After resolving, always open the file in a browser to confirm everything still works before pushing.
+
+"Hello World"
